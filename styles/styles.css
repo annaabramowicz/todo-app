@@ -1,0 +1,18 @@
+.title{
+  margin: 30px;
+  font-size: 2rem;
+}
+
+#add{
+  padding: 10px;
+  /* width: 236px; */
+  /* height: 68px; */
+  /* left: 89px; */
+  /* top: 372px; */
+  /* border-radius: 30px; */
+  /* font-size: var(--font-size-medium); */
+  /* font-weight: var(--font-weight-bold); */
+  background-color: blueviolet;
+  color: white;
+  border-style: hidden;
+}
